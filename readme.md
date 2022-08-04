@@ -16,4 +16,4 @@
 
 * <p>Important methods in Python</p>
   </br>
-  <img src="/assets/important-methods-in-python.png"/>
+  <img src="/assets/important-methods-in-python.PNG"/>
