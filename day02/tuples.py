@@ -1,6 +1,8 @@
-'''Tuples and list are same 
+'''
+Tuples and list are same 
 the main differance is you cannot change the value of tuples.
-Tuples are immutable..'''
+Tuples are immutable..
+'''
 
 tOne=("fahim",3,4,False)
 print(tOne)
