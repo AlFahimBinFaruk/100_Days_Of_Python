@@ -2,7 +2,8 @@
 list are a collection of data in python
 '''
 nameList = ["fahim", 33, True, 23424, 43, 44, 43, 2, 2]
-
+# list length
+print("lenght=>", len(nameList))
 # change value of a list
 nameList[1] = 23
 print(nameList[1])

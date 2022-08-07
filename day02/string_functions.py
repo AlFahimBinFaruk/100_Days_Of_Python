@@ -2,6 +2,8 @@ story="lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t
 
 # count length
 print(len(story))
+# see what the string start with
+print(story.startswith("laborum."))
 # see what the string endwith
 print(story.endswith("laborum."))
 # count the number of word and character in a string
