@@ -1,4 +1,4 @@
-story="lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+story = "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 # count length
 print(len(story))
@@ -15,5 +15,8 @@ print(story.capitalize())
 print(story.find("Ipsum"))
 print(story.find("l"))
 # replace all the occurance of a word or character in a string
-print(story.replace("lorem","Fahim"))
-print(story.replace("o","Fahim"))
+print(story.replace("lorem", "Fahim"))
+print(story.replace("o", "Fahim"))
+# strip removes extra spaces of starting and ending of a string.
+x = "    hi jfkd     my name     is      fahim    "
+print(x.strip())
