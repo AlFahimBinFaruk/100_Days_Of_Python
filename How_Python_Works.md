@@ -11,7 +11,7 @@
 
 #### Python working
 * <img height="400" src="./assets/images/python_working.png" width="600"/>
-* <img height="400" src="./assets/images/how-python-works.png" width="600"/>
+* <img height="400" src="./assets/images/how-python-works.PNG" width="600"/>
 
 #### Disassembler
 * Disassembler converts by-code into human understandable form.
