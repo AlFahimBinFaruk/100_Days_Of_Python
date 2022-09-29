@@ -1,6 +1,7 @@
 class MyClass:
     __name = "fahim"
-    __age = 33;
+    __age = 33
+    _ran=33
 
     def getter(self):
         return f"name is {self.__name} and age is {self.__age}"
@@ -16,6 +17,9 @@ print(obj.getter())
 obj.setter("suhan",44)
 
 print(obj.getter())
+
+# this can be accessed
+print(obj._ran)
 
 # this will give error as __ means private attribute that can only be accssed inside the same class
 # print(obj.__name)
