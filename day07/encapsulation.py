@@ -13,8 +13,14 @@ class MyClass:
 obj = MyClass()
 print(obj.getter())
 
-# obj.name="Suhan"
-# obj.age=55
 obj.setter("suhan",44)
 
 print(obj.getter())
+
+# this will give error as __ means private attribute that can only be accssed inside the same class
+# print(obj.__name)
+
+"""The Python interpreter modifies the variable name with ___. 
+So Multiple times It uses as a Private member because another class can not access that variable directly. 
+The main purpose for __ is to use variable /method in class only If you want to use it outside of the class 
+you can make it public."""
