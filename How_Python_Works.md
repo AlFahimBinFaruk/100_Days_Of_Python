@@ -1,6 +1,7 @@
 ## How Python Works?
 * Python is an object-oriented programming language like Java. 
 * Python is called an interpreted language. 
+* Python is dynamically typed language because the types of variables are determined during runtime
 * Python uses code modules that are interchangeable instead of a single long list of instructions that was standard for functional programming languages. 
 * The standard implementation of python is called **cpython**. 
   It is the default and widely used implementation of Python. 
