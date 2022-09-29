@@ -5,16 +5,16 @@
 #
 #     def __init__(self):
 #         print("Calling First")
+#
+#     def printAge(self,age):
+#         print("age is", age)
 
-    # def printAge(self):
-    #     print("age is", self.age)
 
-
-# obj=MyClass("fahim")
+# obj=MyClass()
 # print(obj.name)
 #
 # obj.age=33
-# obj.printAge()
+# obj.printAge(55)
 
 # objTwo = MyClass()
 
