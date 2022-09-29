@@ -1,0 +1,2 @@
+### Abstraction in Python
+* [Abstraction in python](https://www.mygreatlearning.com/blog/abstraction-in-python/#:~:text=What%20is%20Abstraction%20in%20Python,oriented%20programming%20(OOP)%20languages.)
