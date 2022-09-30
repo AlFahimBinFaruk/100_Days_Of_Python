@@ -16,7 +16,7 @@
 
 #### Disassembler
 * Disassembler converts by-code into human understandable form.
-* <img height="400" src="./assets/images/disassembler.PNG" width="600"/>
+* <img height="400" src="../assets/images/disassembler.PNG" width="600"/>
 
 ### The Python source code goes through the following to generate an executable code :
 * **Step 1:** The python compiler reads a python source code or instruction. Then it verifies that the instruction is well-formatted, i.e. it checks the syntax of each line. If it encounters an error, it immediately halts the translation and shows an error message.
