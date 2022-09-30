@@ -11,8 +11,8 @@
 * **Byte-code** are binary(0,1) but the processor can't understand it.But PVM can.
 
 #### Python working
-* <img height="400" src="./assets/images/python_working.png" width="600"/>
-* <img height="400" src="./assets/images/how-python-works.PNG" width="600"/>
+* <img height="400" src="../assets/images/python_working.png" width="600"/>
+* <img height="400" src="../assets/images/how-python-works.PNG" width="600"/>
 
 #### Disassembler
 * Disassembler converts by-code into human understandable form.
