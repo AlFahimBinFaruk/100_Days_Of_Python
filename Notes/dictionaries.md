@@ -235,7 +235,7 @@ print(mydict)
 ```
 
 ### Dictionaries methods
-* [Dictionaries all methods]("https://www.w3schools.com/python/python_dictionaries_methods.asp")
+* [Dictionaries all methods](https://www.w3schools.com/python/python_dictionaries_methods.asp)
 
 ### Important resources
-* [Python dictionaries]("https://www.w3schools.com/python/python_dictionaries.asp")
+* [Python dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)

@@ -184,7 +184,7 @@ print(list1)
 ```
 
 ### List methods
-* [Python List methods - very important]("https://www.w3schools.com/python/python_lists_methods.asp")
+* [Python List methods - very important](https://www.w3schools.com/python/python_lists_methods.asp)
 
 ### Important resources
-* [Python list - very important]("https://www.w3schools.com/python/python_lists.asp")
+* [Python list - very important](https://www.w3schools.com/python/python_lists.asp)

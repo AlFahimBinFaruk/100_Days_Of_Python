@@ -46,7 +46,7 @@ print(x)
 ```
 
 ### Complete Math Module Reference
-* [Complete Math Module Reference]("https://www.w3schools.com/python/module_math.asp")
+* [Complete Math Module Reference](https://www.w3schools.com/python/module_math.asp)
 
 ### Important resources
-* [Python math]("https://www.w3schools.com/python/python_math.asp")
+* [Python math](https://www.w3schools.com/python/python_math.asp)

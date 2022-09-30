@@ -103,4 +103,4 @@ for x in myiter:
 ```
 
 ### Important resources
-* [Python iterator]("https://www.w3schools.com/python/python_iterators.asp")
+* [Python iterator](https://www.w3schools.com/python/python_iterators.asp)

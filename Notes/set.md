@@ -162,7 +162,7 @@ print(z)
 ```
 
 ### set methods
-* [All set methods]("https://www.w3schools.com/python/python_sets_methods.asp")
+* [All set methods](https://www.w3schools.com/python/python_sets_methods.asp)
 
 ### Resources
-* [Python set]("https://www.w3schools.com/python/python_sets.asp")
+* [Python set](https://www.w3schools.com/python/python_sets.asp)

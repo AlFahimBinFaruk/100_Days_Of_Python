@@ -81,4 +81,4 @@ class Person:
 ```
 
 ### Resources
-* [python classes/objects]("https://www.w3schools.com/python/python_classes.asp")
+* [python classes/objects](https://www.w3schools.com/python/python_classes.asp)

@@ -68,4 +68,4 @@ if not type(x) is int:
 ```
 
 ### Important resources
-* [Python try_except]("https://www.w3schools.com/python/python_try_except.asp")
+* [Python try_except](https://www.w3schools.com/python/python_try_except.asp)

@@ -137,4 +137,4 @@ print(mytuple)
   * index()	Searches the tuple for a specified value and returns the position of where it was found
 
 ### Important resources
-* [Python Tuples - very important]("https://www.w3schools.com/python/python_tuples.asp")
+* [Python Tuples - very important](https://www.w3schools.com/python/python_tuples.asp)

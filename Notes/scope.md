@@ -53,4 +53,4 @@ print(x)
 ```
 
 ### Important resources
-* [Python scopes]("https://www.w3schools.com/python/python_scope.asp")
+* [Python scopes](https://www.w3schools.com/python/python_scope.asp)

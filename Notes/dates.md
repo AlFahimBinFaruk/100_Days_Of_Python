@@ -335,4 +335,4 @@ print(x.strftime("%B"))
 </table>
 
 ### Important resources
-* [Python date-time]("https://www.w3schools.com/python/python_datetime.asp")
+* [Python date-time](https://www.w3schools.com/python/python_datetime.asp)

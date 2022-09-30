@@ -146,4 +146,4 @@ print(json.dumps(x, indent=4, sort_keys=True))
 ```
 
 ### Important resources
-* [Python JSON]("https://www.w3schools.com/python/python_json.asp")
+* [Python JSON](https://www.w3schools.com/python/python_json.asp)
