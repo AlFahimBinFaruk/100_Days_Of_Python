@@ -3,3 +3,4 @@
 
 ### Important resources
 * [Python closure](https://www.geeksforgeeks.org/python-closures/)
+* [What is closure - the conceptual](https://www.youtube.com/watch?v=WmTuVdPYfPo)
